@@ -1,0 +1,105 @@
+/*
+Name: Wo Jia Qian
+Student Id: 2314023
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+@import "./home.css";
+
+
+@theme {
+  --color-primary: #f84565;
+  --color-primary-dull: #d63854;
+  --color-grey: #f6f6f6;
+}
+
+* {
+  font-family: "Outfit", sans-serif;
+  scrollbar-width: thin;
+  scrollbar-color: #787777 #1e1e1e;
+}
+
+body {
+  color: white;
+  background-color: #090908;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+}
+
+.booking_widget {
+  width: 80vw;
+  padding: 1rem;
+  margin: 2rem auto;
+  border-radius: 1rem;
+  background-color: #fff;
+  box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.025);
+  color: #101010;
+}
+
+.booking_tabs {
+  --tab-count:3;
+  --active:0;
+  border-block-end: #e9ebec;
+  isolation: isolate;
+  border-block-end: 1px solid #e9ebec;
+  width: 100%;
+}
+
+.booking_tabs label {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  color: #656d7b;
+  transition: color 0.5s ease-in-out;
+}
+
+.booking_tabs input:checked + label {
+  color: black;
+}
+
+.booking_tabs::after {
+  pointer-events:none;
+  position:absolute;
+  content:"";
+  z-index: -1;
+  inset: 0 0 -1px;
+  width: calc((100%/ var(--tab-count)) - 2px);
+  border-radius: 0.5rem 0.5rem 0 0;
+  border: 1px solid #e9ebec;
+  border-block-end: none;
+  background: linear-gradient(#edf4ff, #fff);
+  translate: calc(var(--active) * 100%);
+  transition: translate 0.5s ease-in-out;
+}
+
+.booking_tabs:has(:checked:nth-of-type(1)){
+  --active:0;
+}
+
+.booking_tabs:has(:checked:nth-of-type(2)){
+  --active:1;
+}
+
+.booking_tabs:has(:checked:nth-of-type(3)){
+  --active:2;
+} 
+
+.tab_content {
+  padding: 1rem;
+}
+
+[class^="tab_content_"] {
+  display: none;
+}
+
+.booking_widget:has(:checked:nth-of-type(1)) .tab_content_1,
+.booking_widget:has(:checked:nth-of-type(2)) .tab_content_2,
+.booking_widget:has(:checked:nth-of-type(3)) .tab_content_3 {
+  display: block;
+}

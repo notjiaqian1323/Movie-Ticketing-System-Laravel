@@ -1,0 +1,16 @@
+[
+    {
+        "id": 101,
+        "hall_name": "Hall 1",
+        "total_rows": 5,
+        "total_columns": 10,
+        "status": "active"
+    },
+    {
+        "id": 102,
+        "hall_name": "Hall 2",
+        "total_rows": 6,
+        "total_columns": 12,
+        "status": "active"
+    }
+]

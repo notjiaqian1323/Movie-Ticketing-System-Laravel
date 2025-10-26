@@ -1,0 +1,41 @@
+
+/* Poster carousel container (fills right column) */
+.poster-carousel {
+  position: relative;
+  width: 100%;
+  height: 480px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  perspective: 1200px;
+  transform: translateX(-50px);
+}
+
+/* individual cards positioned absolutely by JS transforms */
+.poster-card {
+  position: absolute;
+  width: 200px;
+  height: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform .45s cubic-bezier(.2,.8,.2,1), box-shadow .3s, opacity .3s;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.45);
+  z-index: 1;
+}
+
+.poster-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.poster-card.active {
+  border: 3px solid rgba(255,255,255,0.9);
+  transform-origin: center center;
+  box-shadow: 0 18px 40px rgba(0,0,0,0.6);
+  z-index: 50;
+}
+
+.poster-card:not(.active) { opacity: .85; }

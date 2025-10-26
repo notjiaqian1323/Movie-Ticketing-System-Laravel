@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "account_id": 2,
+        "schedule_id": 1,
+        "booking_time": "2025-08-25 10:00:00",
+        "total_amount": 25.00,
+        "qr_code": "5696c2140a76a5b28d3e2079036c0a76a",
+        "status": "confirmed",
+        "created_at": "2025-08-24 10:00:00",
+        "updated_at": "2025-08-24 10:05:00"
+    },
+    {
+        "id": 2,
+        "account_id": 2,
+        "schedule_id": 18,
+        "booking_time": "2025-08-28 13:30:00",
+        "total_amount": 20.00,
+        "qr_code": "b8332c954b036c0a76a45b23d90236c0a",
+        "status": "confirmed",
+        "created_at": "2025-08-27 09:00:00",
+        "updated_at": "2025-08-27 09:02:00"
+    },
+    {
+        "id": 3,
+        "account_id": 2,
+        "schedule_id": 15,
+        "booking_time": "2025-09-02 10:00:00",
+        "total_amount": 25.00,
+        "qr_code": "893c5d6e2c34091a4b5689d021c3245a1",
+        "status": "pending",
+        "created_at": "2025-09-01 15:00:00",
+        "updated_at": "2025-09-01 15:00:00"
+    },
+    {
+        "id": 4,
+        "account_id": 2,
+        "schedule_id": 22,
+        "booking_time": "2025-09-03 13:30:00",
+        "total_amount": 25.00,
+        "qr_code": "4351b6a7821c9d40e53a2b712c9d40e53",
+        "status": "failed",
+        "created_at": "2025-09-01 15:10:00",
+        "updated_at": "2025-09-01 15:11:00"
+    },
+    {
+        "id": 5,
+        "account_id": 2,
+        "schedule_id": 40,
+        "booking_time": "2025-09-02 10:00:00",
+        "total_amount": 20.00,
+        "qr_code": "1a23c4d5e6f7a8b9c0d1e2f3a4b5c6d7e",
+        "status": "cancelled",
+        "created_at": "2025-09-01 15:20:00",
+        "updated_at": "2025-09-01 15:25:00"
+    },
+    {
+        "id": 6,
+        "account_id": 3,
+        "schedule_id": 5,
+        "booking_time": "2025-08-29 10:00:00",
+        "total_amount": 30.00,
+        "qr_code": "a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4e",
+        "status": "confirmed",
+        "created_at": "2025-08-28 17:00:00",
+        "updated_at": "2025-08-28 17:01:00"
+    },
+    {
+        "id": 7,
+        "account_id": 3,
+        "schedule_id": 30,
+        "booking_time": "2025-09-03 13:30:00",
+        "total_amount": 25.00,
+        "qr_code": "b4a3c2d1e0f9b8c7d6e5f4a3b2c1d0e9f",
+        "status": "pending",
+        "created_at": "2025-09-01 15:30:00",
+        "updated_at": "2025-09-01 15:30:00"
+    },
+    {
+        "id": 8,
+        "account_id": 3,
+        "schedule_id": 50,
+        "booking_time": "2025-09-04 10:00:00",
+        "total_amount": 25.00,
+        "qr_code": "b5e3f2g1h0i9j8k7l6m5n4o3p2q1r0s",
+        "status": "pending",
+        "created_at": "2025-09-01 15:35:00",
+        "updated_at": "2025-09-01 15:35:00"
+    },
+    {
+        "id": 9,
+        "account_id": 3,
+        "schedule_id": 55,
+        "booking_time": "2025-09-04 13:30:00",
+        "total_amount": 20.00,
+        "qr_code": "c5d4e3f2g1h0i9j8k7l6m5n4o3p2q1r0s",
+        "status": "failed",
+        "created_at": "2025-09-01 15:40:00",
+        "updated_at": "2025-09-01 15:41:00"
+    },
+    {
+        "id": 10,
+        "account_id": 3,
+        "schedule_id": 70,
+        "booking_time": "2025-09-05 10:00:00",
+        "total_amount": 30.00,
+        "qr_code": "d6e5f4g3h2i1j0k9l8m7n6o5p4q3r2s1t",
+        "status": "cancelled",
+        "created_at": "2025-09-01 15:45:00",
+        "updated_at": "2025-09-01 15:50:00"
+    },
+    {
+        "id": 11,
+        "account_id": 4,
+        "schedule_id": 8,
+        "booking_time": "2025-08-30 13:30:00",
+        "total_amount": 25.00,
+        "qr_code": "e7f6g5h4i3j2k1l0m9n8o7p6q5r4s3t2u",
+        "status": "confirmed",
+        "created_at": "2025-08-29 10:00:00",
+        "updated_at": "2025-08-29 10:05:00"
+    },
+    {
+        "id": 12,
+        "account_id": 4,
+        "schedule_id": 45,
+        "booking_time": "2025-09-06 10:00:00",
+        "total_amount": 25.00,
+        "qr_code": "f8g7h6i5j4k3l2m1n0o9p8q7r6s5t4u3v",
+        "status": "pending",
+        "created_at": "2025-09-01 15:55:00",
+        "updated_at": "2025-09-01 15:55:00"
+    },
+    {
+        "id": 13,
+        "account_id": 4,
+        "schedule_id": 60,
+        "booking_time": "2025-08-27 10:00:00",
+        "total_amount": 20.00,
+        "qr_code": "g9h8i7j6k5l4m3n2o1p0q9r8s7t6u5v4w",
+        "status": "failed",
+        "created_at": "2025-08-26 15:00:00",
+        "updated_at": "2025-08-26 15:01:00"
+    },
+    {
+        "id": 14,
+        "account_id": 4,
+        "schedule_id": 12,
+        "booking_time": "2025-09-07 10:00:00",
+        "total_amount": 30.00,
+        "qr_code": "h0i9j8k7l6m5n4o3p2q1r0s9t8u7v6w5x",
+        "status": "cancelled",
+        "created_at": "2025-09-01 16:00:00",
+        "updated_at": "2025-09-01 16:01:00"
+    }
+]

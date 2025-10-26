@@ -1,0 +1,198 @@
+[
+    {
+        "id": 1,
+        "booking_id": 1,
+        "seat_id": 1,
+        "ticket_type": "ADULT",
+        "price": 15.00
+    },
+    {
+        "id": 2,
+        "booking_id": 1,
+        "seat_id": 2,
+        "ticket_type": "CHILD",
+        "price": 10.00
+    },
+    {
+        "id": 3,
+        "booking_id": 2,
+        "seat_id": 51,
+        "ticket_type": "ADULT",
+        "price": 10.00
+    },
+    {
+        "id": 4,
+        "booking_id": 2,
+        "seat_id": 52,
+        "ticket_type": "CHILD",
+        "price": 10.00
+    },
+    {
+        "id": 5,
+        "booking_id": 3,
+        "seat_id": 3,
+        "ticket_type": "ADULT",
+        "price": 15.00
+    },
+    {
+        "id": 6,
+        "booking_id": 3,
+        "seat_id": 4,
+        "ticket_type": "CHILD",
+        "price": 10.00
+    },
+    {
+        "id": 7,
+        "booking_id": 4,
+        "seat_id": 54,
+        "ticket_type": "ADULT",
+        "price": 15.00
+    },
+    {
+        "id": 8,
+        "booking_id": 4,
+        "seat_id": 55,
+        "ticket_type": "CHILD",
+        "price": 10.00
+    },
+    {
+        "id": 9,
+        "booking_id": 5,
+        "seat_id": 56,
+        "ticket_type": "ADULT",
+        "price": 10.00
+    },
+    {
+        "id": 10,
+        "booking_id": 5,
+        "seat_id": 57,
+        "ticket_type": "CHILD",
+        "price": 10.00
+    },
+    {
+        "id": 11,
+        "booking_id": 6,
+        "seat_id": 5,
+        "ticket_type": "ADULT",
+        "price": 15.00
+    },
+    {
+        "id": 12,
+        "booking_id": 6,
+        "seat_id": 6,
+        "ticket_type": "ADULT",
+        "price": 15.00
+    },
+    {
+        "id": 13,
+        "booking_id": 7,
+        "seat_id": 58,
+        "ticket_type": "ADULT",
+        "price": 15.00
+    },
+    {
+        "id": 14,
+        "booking_id": 7,
+        "seat_id": 59,
+        "ticket_type": "CHILD",
+        "price": 10.00
+    },
+    {
+        "id": 15,
+        "booking_id": 8,
+        "seat_id": 60,
+        "ticket_type": "ADULT",
+        "price": 15.00
+    },
+    {
+        "id": 16,
+        "booking_id": 8,
+        "seat_id": 61,
+        "ticket_type": "CHILD",
+        "price": 10.00
+    },
+    {
+        "id": 17,
+        "booking_id": 9,
+        "seat_id": 62,
+        "ticket_type": "CHILD",
+        "price": 10.00
+    },
+    {
+        "id": 18,
+        "booking_id": 9,
+        "seat_id": 63,
+        "ticket_type": "CHILD",
+        "price": 10.00
+    },
+    {
+        "id": 19,
+        "booking_id": 10,
+        "seat_id": 64,
+        "ticket_type": "ADULT",
+        "price": 15.00
+    },
+    {
+        "id": 20,
+        "booking_id": 10,
+        "seat_id": 65,
+        "ticket_type": "ADULT",
+        "price": 15.00
+    },
+    {
+        "id": 21,
+        "booking_id": 11,
+        "seat_id": 9,
+        "ticket_type": "ADULT",
+        "price": 15.00
+    },
+    {
+        "id": 22,
+        "booking_id": 11,
+        "seat_id": 10,
+        "ticket_type": "CHILD",
+        "price": 10.00
+    },
+    {
+        "id": 23,
+        "booking_id": 12,
+        "seat_id": 66,
+        "ticket_type": "ADULT",
+        "price": 15.00
+    },
+    {
+        "id": 24,
+        "booking_id": 12,
+        "seat_id": 67,
+        "ticket_type": "CHILD",
+        "price": 10.00
+    },
+    {
+        "id": 25,
+        "booking_id": 13,
+        "seat_id": 68,
+        "ticket_type": "CHILD",
+        "price": 10.00
+    },
+    {
+        "id": 26,
+        "booking_id": 13,
+        "seat_id": 69,
+        "ticket_type": "CHILD",
+        "price": 10.00
+    },
+    {
+        "id": 27,
+        "booking_id": 14,
+        "seat_id": 70,
+        "ticket_type": "ADULT",
+        "price": 15.00
+    },
+    {
+        "id": 28,
+        "booking_id": 14,
+        "seat_id": 71,
+        "ticket_type": "ADULT",
+        "price": 15.00
+    }
+]

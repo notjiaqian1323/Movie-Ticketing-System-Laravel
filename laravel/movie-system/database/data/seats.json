@@ -1,0 +1,856 @@
+[
+    {
+        "id": 1,
+        "hall_id": 101,
+        "row_char": "A",
+        "seat_number": 1,
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "hall_id": 101,
+        "row_char": "A",
+        "seat_number": 2,
+        "status": "active"
+    },
+    {
+        "id": 3,
+        "hall_id": 101,
+        "row_char": "A",
+        "seat_number": 3,
+        "status": "active"
+    },
+    {
+        "id": 4,
+        "hall_id": 101,
+        "row_char": "A",
+        "seat_number": 4,
+        "status": "active"
+    },
+    {
+        "id": 5,
+        "hall_id": 101,
+        "row_char": "A",
+        "seat_number": 5,
+        "status": "active"
+    },
+    {
+        "id": 6,
+        "hall_id": 101,
+        "row_char": "A",
+        "seat_number": 6,
+        "status": "active"
+    },
+    {
+        "id": 7,
+        "hall_id": 101,
+        "row_char": "A",
+        "seat_number": 7,
+        "status": "active"
+    },
+    {
+        "id": 8,
+        "hall_id": 101,
+        "row_char": "A",
+        "seat_number": 8,
+        "status": "active"
+    },
+    {
+        "id": 9,
+        "hall_id": 101,
+        "row_char": "A",
+        "seat_number": 9,
+        "status": "active"
+    },
+    {
+        "id": 10,
+        "hall_id": 101,
+        "row_char": "A",
+        "seat_number": 10,
+        "status": "active"
+    },
+    {
+        "id": 11,
+        "hall_id": 101,
+        "row_char": "B",
+        "seat_number": 1,
+        "status": "active"
+    },
+    {
+        "id": 12,
+        "hall_id": 101,
+        "row_char": "B",
+        "seat_number": 2,
+        "status": "active"
+    },
+    {
+        "id": 13,
+        "hall_id": 101,
+        "row_char": "B",
+        "seat_number": 3,
+        "status": "active"
+    },
+    {
+        "id": 14,
+        "hall_id": 101,
+        "row_char": "B",
+        "seat_number": 4,
+        "status": "active"
+    },
+    {
+        "id": 15,
+        "hall_id": 101,
+        "row_char": "B",
+        "seat_number": 5,
+        "status": "active"
+    },
+    {
+        "id": 16,
+        "hall_id": 101,
+        "row_char": "B",
+        "seat_number": 6,
+        "status": "active"
+    },
+    {
+        "id": 17,
+        "hall_id": 101,
+        "row_char": "B",
+        "seat_number": 7,
+        "status": "active"
+    },
+    {
+        "id": 18,
+        "hall_id": 101,
+        "row_char": "B",
+        "seat_number": 8,
+        "status": "active"
+    },
+    {
+        "id": 19,
+        "hall_id": 101,
+        "row_char": "B",
+        "seat_number": 9,
+        "status": "active"
+    },
+    {
+        "id": 20,
+        "hall_id": 101,
+        "row_char": "B",
+        "seat_number": 10,
+        "status": "active"
+    },
+    {
+        "id": 21,
+        "hall_id": 101,
+        "row_char": "C",
+        "seat_number": 1,
+        "status": "active"
+    },
+    {
+        "id": 22,
+        "hall_id": 101,
+        "row_char": "C",
+        "seat_number": 2,
+        "status": "active"
+    },
+    {
+        "id": 23,
+        "hall_id": 101,
+        "row_char": "C",
+        "seat_number": 3,
+        "status": "active"
+    },
+    {
+        "id": 24,
+        "hall_id": 101,
+        "row_char": "C",
+        "seat_number": 4,
+        "status": "active"
+    },
+    {
+        "id": 25,
+        "hall_id": 101,
+        "row_char": "C",
+        "seat_number": 5,
+        "status": "active"
+    },
+    {
+        "id": 26,
+        "hall_id": 101,
+        "row_char": "C",
+        "seat_number": 6,
+        "status": "active"
+    },
+    {
+        "id": 27,
+        "hall_id": 101,
+        "row_char": "C",
+        "seat_number": 7,
+        "status": "active"
+    },
+    {
+        "id": 28,
+        "hall_id": 101,
+        "row_char": "C",
+        "seat_number": 8,
+        "status": "active"
+    },
+    {
+        "id": 29,
+        "hall_id": 101,
+        "row_char": "C",
+        "seat_number": 9,
+        "status": "active"
+    },
+    {
+        "id": 30,
+        "hall_id": 101,
+        "row_char": "C",
+        "seat_number": 10,
+        "status": "active"
+    },
+    {
+        "id": 31,
+        "hall_id": 101,
+        "row_char": "D",
+        "seat_number": 1,
+        "status": "active"
+    },
+    {
+        "id": 32,
+        "hall_id": 101,
+        "row_char": "D",
+        "seat_number": 2,
+        "status": "active"
+    },
+    {
+        "id": 33,
+        "hall_id": 101,
+        "row_char": "D",
+        "seat_number": 3,
+        "status": "active"
+    },
+    {
+        "id": 34,
+        "hall_id": 101,
+        "row_char": "D",
+        "seat_number": 4,
+        "status": "active"
+    },
+    {
+        "id": 35,
+        "hall_id": 101,
+        "row_char": "D",
+        "seat_number": 5,
+        "status": "active"
+    },
+    {
+        "id": 36,
+        "hall_id": 101,
+        "row_char": "D",
+        "seat_number": 6,
+        "status": "active"
+    },
+    {
+        "id": 37,
+        "hall_id": 101,
+        "row_char": "D",
+        "seat_number": 7,
+        "status": "active"
+    },
+    {
+        "id": 38,
+        "hall_id": 101,
+        "row_char": "D",
+        "seat_number": 8,
+        "status": "active"
+    },
+    {
+        "id": 39,
+        "hall_id": 101,
+        "row_char": "D",
+        "seat_number": 9,
+        "status": "active"
+    },
+    {
+        "id": 40,
+        "hall_id": 101,
+        "row_char": "D",
+        "seat_number": 10,
+        "status": "active"
+    },
+    {
+        "id": 41,
+        "hall_id": 101,
+        "row_char": "E",
+        "seat_number": 1,
+        "status": "active"
+    },
+    {
+        "id": 42,
+        "hall_id": 101,
+        "row_char": "E",
+        "seat_number": 2,
+        "status": "active"
+    },
+    {
+        "id": 43,
+        "hall_id": 101,
+        "row_char": "E",
+        "seat_number": 3,
+        "status": "active"
+    },
+    {
+        "id": 44,
+        "hall_id": 101,
+        "row_char": "E",
+        "seat_number": 4,
+        "status": "active"
+    },
+    {
+        "id": 45,
+        "hall_id": 101,
+        "row_char": "E",
+        "seat_number": 5,
+        "status": "active"
+    },
+    {
+        "id": 46,
+        "hall_id": 101,
+        "row_char": "E",
+        "seat_number": 6,
+        "status": "active"
+    },
+    {
+        "id": 47,
+        "hall_id": 101,
+        "row_char": "E",
+        "seat_number": 7,
+        "status": "active"
+    },
+    {
+        "id": 48,
+        "hall_id": 101,
+        "row_char": "E",
+        "seat_number": 8,
+        "status": "active"
+    },
+    {
+        "id": 49,
+        "hall_id": 101,
+        "row_char": "E",
+        "seat_number": 9,
+        "status": "active"
+    },
+    {
+        "id": 50,
+        "hall_id": 101,
+        "row_char": "E",
+        "seat_number": 10,
+        "status": "active"
+    },
+    {
+        "id": 51,
+        "hall_id": 102,
+        "row_char": "A",
+        "seat_number": 1,
+        "status": "active"
+    },
+    {
+        "id": 52,
+        "hall_id": 102,
+        "row_char": "A",
+        "seat_number": 2,
+        "status": "active"
+    },
+    {
+        "id": 53,
+        "hall_id": 102,
+        "row_char": "A",
+        "seat_number": 3,
+        "status": "active"
+    },
+    {
+        "id": 54,
+        "hall_id": 102,
+        "row_char": "A",
+        "seat_number": 4,
+        "status": "active"
+    },
+    {
+        "id": 55,
+        "hall_id": 102,
+        "row_char": "A",
+        "seat_number": 5,
+        "status": "active"
+    },
+    {
+        "id": 56,
+        "hall_id": 102,
+        "row_char": "A",
+        "seat_number": 6,
+        "status": "active"
+    },
+    {
+        "id": 57,
+        "hall_id": 102,
+        "row_char": "A",
+        "seat_number": 7,
+        "status": "active"
+    },
+    {
+        "id": 58,
+        "hall_id": 102,
+        "row_char": "A",
+        "seat_number": 8,
+        "status": "active"
+    },
+    {
+        "id": 59,
+        "hall_id": 102,
+        "row_char": "A",
+        "seat_number": 9,
+        "status": "active"
+    },
+    {
+        "id": 60,
+        "hall_id": 102,
+        "row_char": "A",
+        "seat_number": 10,
+        "status": "active"
+    },
+    {
+        "id": 61,
+        "hall_id": 102,
+        "row_char": "A",
+        "seat_number": 11,
+        "status": "active"
+    },
+    {
+        "id": 62,
+        "hall_id": 102,
+        "row_char": "A",
+        "seat_number": 12,
+        "status": "active"
+    },
+    {
+        "id": 63,
+        "hall_id": 102,
+        "row_char": "B",
+        "seat_number": 1,
+        "status": "active"
+    },
+    {
+        "id": 64,
+        "hall_id": 102,
+        "row_char": "B",
+        "seat_number": 2,
+        "status": "active"
+    },
+    {
+        "id": 65,
+        "hall_id": 102,
+        "row_char": "B",
+        "seat_number": 3,
+        "status": "active"
+    },
+    {
+        "id": 66,
+        "hall_id": 102,
+        "row_char": "B",
+        "seat_number": 4,
+        "status": "active"
+    },
+    {
+        "id": 67,
+        "hall_id": 102,
+        "row_char": "B",
+        "seat_number": 5,
+        "status": "active"
+    },
+    {
+        "id": 68,
+        "hall_id": 102,
+        "row_char": "B",
+        "seat_number": 6,
+        "status": "active"
+    },
+    {
+        "id": 69,
+        "hall_id": 102,
+        "row_char": "B",
+        "seat_number": 7,
+        "status": "active"
+    },
+    {
+        "id": 70,
+        "hall_id": 102,
+        "row_char": "B",
+        "seat_number": 8,
+        "status": "active"
+    },
+    {
+        "id": 71,
+        "hall_id": 102,
+        "row_char": "B",
+        "seat_number": 9,
+        "status": "active"
+    },
+    {
+        "id": 72,
+        "hall_id": 102,
+        "row_char": "B",
+        "seat_number": 10,
+        "status": "active"
+    },
+    {
+        "id": 73,
+        "hall_id": 102,
+        "row_char": "B",
+        "seat_number": 11,
+        "status": "active"
+    },
+    {
+        "id": 74,
+        "hall_id": 102,
+        "row_char": "B",
+        "seat_number": 12,
+        "status": "active"
+    },
+    {
+        "id": 75,
+        "hall_id": 102,
+        "row_char": "C",
+        "seat_number": 1,
+        "status": "active"
+    },
+    {
+        "id": 76,
+        "hall_id": 102,
+        "row_char": "C",
+        "seat_number": 2,
+        "status": "active"
+    },
+    {
+        "id": 77,
+        "hall_id": 102,
+        "row_char": "C",
+        "seat_number": 3,
+        "status": "active"
+    },
+    {
+        "id": 78,
+        "hall_id": 102,
+        "row_char": "C",
+        "seat_number": 4,
+        "status": "active"
+    },
+    {
+        "id": 79,
+        "hall_id": 102,
+        "row_char": "C",
+        "seat_number": 5,
+        "status": "active"
+    },
+    {
+        "id": 80,
+        "hall_id": 102,
+        "row_char": "C",
+        "seat_number": 6,
+        "status": "active"
+    },
+    {
+        "id": 81,
+        "hall_id": 102,
+        "row_char": "C",
+        "seat_number": 7,
+        "status": "active"
+    },
+    {
+        "id": 82,
+        "hall_id": 102,
+        "row_char": "C",
+        "seat_number": 8,
+        "status": "active"
+    },
+    {
+        "id": 83,
+        "hall_id": 102,
+        "row_char": "C",
+        "seat_number": 9,
+        "status": "active"
+    },
+    {
+        "id": 84,
+        "hall_id": 102,
+        "row_char": "C",
+        "seat_number": 10,
+        "status": "active"
+    },
+    {
+        "id": 85,
+        "hall_id": 102,
+        "row_char": "C",
+        "seat_number": 11,
+        "status": "active"
+    },
+    {
+        "id": 86,
+        "hall_id": 102,
+        "row_char": "C",
+        "seat_number": 12,
+        "status": "active"
+    },
+    {
+        "id": 87,
+        "hall_id": 102,
+        "row_char": "D",
+        "seat_number": 1,
+        "status": "active"
+    },
+    {
+        "id": 88,
+        "hall_id": 102,
+        "row_char": "D",
+        "seat_number": 2,
+        "status": "active"
+    },
+    {
+        "id": 89,
+        "hall_id": 102,
+        "row_char": "D",
+        "seat_number": 3,
+        "status": "active"
+    },
+    {
+        "id": 90,
+        "hall_id": 102,
+        "row_char": "D",
+        "seat_number": 4,
+        "status": "active"
+    },
+    {
+        "id": 91,
+        "hall_id": 102,
+        "row_char": "D",
+        "seat_number": 5,
+        "status": "active"
+    },
+    {
+        "id": 92,
+        "hall_id": 102,
+        "row_char": "D",
+        "seat_number": 6,
+        "status": "active"
+    },
+    {
+        "id": 93,
+        "hall_id": 102,
+        "row_char": "D",
+        "seat_number": 7,
+        "status": "active"
+    },
+    {
+        "id": 94,
+        "hall_id": 102,
+        "row_char": "D",
+        "seat_number": 8,
+        "status": "active"
+    },
+    {
+        "id": 95,
+        "hall_id": 102,
+        "row_char": "D",
+        "seat_number": 9,
+        "status": "active"
+    },
+    {
+        "id": 96,
+        "hall_id": 102,
+        "row_char": "D",
+        "seat_number": 10,
+        "status": "active"
+    },
+    {
+        "id": 97,
+        "hall_id": 102,
+        "row_char": "D",
+        "seat_number": 11,
+        "status": "active"
+    },
+    {
+        "id": 98,
+        "hall_id": 102,
+        "row_char": "D",
+        "seat_number": 12,
+        "status": "active"
+    },
+    {
+        "id": 99,
+        "hall_id": 102,
+        "row_char": "E",
+        "seat_number": 1,
+        "status": "active"
+    },
+    {
+        "id": 100,
+        "hall_id": 102,
+        "row_char": "E",
+        "seat_number": 2,
+        "status": "active"
+    },
+    {
+        "id": 101,
+        "hall_id": 102,
+        "row_char": "E",
+        "seat_number": 3,
+        "status": "active"
+    },
+    {
+        "id": 102,
+        "hall_id": 102,
+        "row_char": "E",
+        "seat_number": 4,
+        "status": "active"
+    },
+    {
+        "id": 103,
+        "hall_id": 102,
+        "row_char": "E",
+        "seat_number": 5,
+        "status": "active"
+    },
+    {
+        "id": 104,
+        "hall_id": 102,
+        "row_char": "E",
+        "seat_number": 6,
+        "status": "active"
+    },
+    {
+        "id": 105,
+        "hall_id": 102,
+        "row_char": "E",
+        "seat_number": 7,
+        "status": "active"
+    },
+    {
+        "id": 106,
+        "hall_id": 102,
+        "row_char": "E",
+        "seat_number": 8,
+        "status": "active"
+    },
+    {
+        "id": 107,
+        "hall_id": 102,
+        "row_char": "E",
+        "seat_number": 9,
+        "status": "active"
+    },
+    {
+        "id": 108,
+        "hall_id": 102,
+        "row_char": "E",
+        "seat_number": 10,
+        "status": "active"
+    },
+    {
+        "id": 109,
+        "hall_id": 102,
+        "row_char": "E",
+        "seat_number": 11,
+        "status": "active"
+    },
+    {
+        "id": 110,
+        "hall_id": 102,
+        "row_char": "E",
+        "seat_number": 12,
+        "status": "active"
+    },
+    {
+        "id": 111,
+        "hall_id": 102,
+        "row_char": "F",
+        "seat_number": 1,
+        "status": "active"
+    },
+    {
+        "id": 112,
+        "hall_id": 102,
+        "row_char": "F",
+        "seat_number": 2,
+        "status": "active"
+    },
+    {
+        "id": 113,
+        "hall_id": 102,
+        "row_char": "F",
+        "seat_number": 3,
+        "status": "active"
+    },
+    {
+        "id": 114,
+        "hall_id": 102,
+        "row_char": "F",
+        "seat_number": 4,
+        "status": "active"
+    },
+    {
+        "id": 115,
+        "hall_id": 102,
+        "row_char": "F",
+        "seat_number": 5,
+        "status": "active"
+    },
+    {
+        "id": 116,
+        "hall_id": 102,
+        "row_char": "F",
+        "seat_number": 6,
+        "status": "active"
+    },
+    {
+        "id": 117,
+        "hall_id": 102,
+        "row_char": "F",
+        "seat_number": 7,
+        "status": "active"
+    },
+    {
+        "id": 118,
+        "hall_id": 102,
+        "row_char": "F",
+        "seat_number": 8,
+        "status": "active"
+    },
+    {
+        "id": 119,
+        "hall_id": 102,
+        "row_char": "F",
+        "seat_number": 9,
+        "status": "active"
+    },
+    {
+        "id": 120,
+        "hall_id": 102,
+        "row_char": "F",
+        "seat_number": 10,
+        "status": "active"
+    },
+    {
+        "id": 121,
+        "hall_id": 102,
+        "row_char": "F",
+        "seat_number": 11,
+        "status": "active"
+    },
+    {
+        "id": 122,
+        "hall_id": 102,
+        "row_char": "F",
+        "seat_number": 12,
+        "status": "active"
+    }
+]
