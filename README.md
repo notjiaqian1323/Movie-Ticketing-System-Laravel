@@ -19,7 +19,7 @@ A scalable, reusable movie ticket booking system built with Laravel Livewire Com
 | **Managing Reviews** | Create reviews for booked movies, editing and managing the reviews. | Observer Pattern |
 
 
-## Tech Stack 💻 
+## Tech Stack
 
 -  Laravel
 -  Tailwind CSS
